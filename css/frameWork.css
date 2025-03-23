@@ -1,0 +1,328 @@
+/* Start distance */
+.wid-100 {
+    width: 100%;
+}
+.wid-50 {
+    width: 50%;
+}
+.wid-fit-content {
+    width: fit-content;
+}
+.he-100 {
+    height: 100%;
+}
+/* End distance */
+/* Start padding */
+.p-5 {
+    padding: 5px;
+}
+.pl-30 {
+    padding-left: 30px;
+}
+.p-20 {
+    padding: 20px;
+}
+.pt-20 {
+    padding-top: 20px;
+}
+.pr-20 {
+    padding-right: 20px;
+}
+.pb-20 {
+    padding-bottom: 20px;
+}
+.pl-20 {
+    padding-left: 20px;
+}
+.p-10 {
+    padding: 10px;
+}
+.pt-10 {
+    padding-top: 10px;
+}
+.pr-10 {
+    padding-right: 10px;
+}
+.pb-10 {
+    padding-bottom: 10px;
+}
+.pl-10 {
+    padding-left: 10px;
+}
+.p-15 {
+    padding: 15px;
+}
+.pt-15 {
+    padding-top: 15px;
+}
+.pr-15 {
+    padding-right: 15px;
+}
+.pb-15 {
+    padding-bottom: 15px;
+}
+.pl-15 {
+    padding-left: 15px;
+}
+.pbor-4-10 {
+    padding: 4px 10px;
+}
+
+.m-10 {
+    margin: 10px;
+}
+.mt-10 {
+    margin-top: 10px;
+}
+.mr-10 {
+    margin-right: 10px;
+}
+.mb-10 {
+    margin-bottom: 10px;
+}
+.ml-10 {
+    margin-left: 10px;
+}
+.m-15 {
+    margin: 15px;
+}
+.mt-15 {
+    margin-top: 15px;
+}
+.mr-15 {
+    margin-right: 15px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.ml-15 {
+    margin-left: 15px;
+}
+.m-20 {
+    margin: 20px;
+
+}
+.mt-20 {
+    margin-top: 20px;
+}
+.mr-20 {
+    margin-right: 20px;
+}
+.mb-20 {
+    margin-bottom: 20px;
+}
+.ml-20 {
+    margin-left: 20px;
+}
+.m-5 {
+    margin: 5px;
+}
+.mt-5 {
+    margin-top: 5px;
+}
+.mr-5 {
+    margin-right: 5px;
+}
+.mb-5 {
+    margin-bottom: 5px;
+}
+.ml-5 {
+    margin-left: 5px;
+}
+.gap {
+    gap: 20px;
+}
+.gap-10 {
+    gap: 10px;
+}
+/* End padding */
+/* Start border */
+.rad-half {
+    border-radius: 50%;
+}
+.rad-10 {
+    border-radius: 10px;
+}
+.rad-5 {
+    border-radius: 5px;
+}
+.bor-1 {
+    border: 1px solid #ccc;
+}
+.bor-2 {
+    border: 2px solid #888;
+}
+.bor-2 {
+    border: 2px solid #ccc;
+}
+.bort-1 {
+    border-top: 1px solid #ccc;
+}
+.borb-1 {
+    border-bottom: 1px solid #ccc;
+}
+.borr-1 {
+    border-right: 1px solid #ccc;
+}
+.rad-half {
+    border-radius: 50%;
+}
+/* End border */
+/* Start background-color */
+.bc-gray {
+    background-color: #eee;
+}
+.bc-white {
+    background-color: white;
+}
+.bc-blue {
+    background-color: #0d69d5;
+}
+.bc-lightBlue {
+    background-color: rgba(13, 106, 213, 30%);
+}
+.bc-lightGreen {
+    background-color: rgb(34, 197, 94, 30% );
+}
+.bc-lightOrange {
+    background-color: rgb(245, 158, 11, 30%);
+}
+.bc-orange {
+    background-color: #f59e0b;
+}
+.bc-green {
+    background-color: #22c55e;
+}
+.bc-red {
+    background-color: #f44336;
+}
+.bc-blue-tuiter {
+    background-color: #1da1f2;
+} 
+.bc-blue-face {
+    background-color: #1877f2;
+}
+.bc-blue-linkin {
+    background-color: #0077b5;
+}
+.bc-red-youtube {
+    background-color: #ff0000;
+}
+.bc-lightRed {
+    background-color: rgba(255, 0, 0, 30%);
+}
+/* End background-color */
+/* Start position */
+.flex-1 {
+    flex: 1;
+}
+.dir-column {
+    flex-direction: column;
+}
+@media (max-width: 767px) {
+    .dir-column-mobile {
+        flex-direction: column;
+    }
+}
+
+.app-none {
+    -webkit-appearance: none;
+    appearance: none;
+}
+.po-re {
+    position: relative;
+}
+.dis-block {
+    display: block;
+}
+.dis-flex {
+    display: flex;
+}
+.al-center {
+    align-items: center;
+}
+.flex-between {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dis-grid {
+    display: grid;
+}
+.jus-center {
+    justify-content: center;
+}
+
+.text-center {
+    text-align: center;
+}
+.po-ab {
+    position: absolute;
+}
+.dis-table {
+    display: table;
+}
+/* End position */
+/* Start font-size */
+.fs-14 {
+    font-size: 14px;
+}
+.fs-13 {
+    font-size: 13px;
+}
+.fs-16 {
+    font-size: 16px;
+}
+.fs-15 {
+    font-size: 15px;
+}
+.fs-24 {
+    font-size: 24px;
+}
+.fw-bold {
+    font-weight: bold;
+}
+.fw-normal {
+    font-weight: normal;
+}
+.fw-600 {
+    font-weight: 600;
+}
+/* End font-size */
+/* Start font-color */
+.fc-black {
+    color: black;
+}
+.fc-gray {
+    color: #888;
+}
+.fc-white {
+    color: white;
+}
+.fc-blue {
+    color: #0d69d5;
+}
+.fc-orange {
+    color: #f59e0b;
+}
+.fc-green {
+    color: #22c55e;
+}
+.fc-red {
+    color: #f44336;
+}
+.fc-blue-twiter {
+    color: #1da1f2;
+}
+.fc-red-youtube {
+    color: #ff0000;
+}
+.fc-blue-linkin {
+    color: #0077b5;
+}
+/* End font-color */
+/* Start box-shadow */
+
+/* End box-shadow */
+
+
